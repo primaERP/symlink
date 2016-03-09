@@ -3,3 +3,4 @@ examples
 .gitignore
 .travis.yml
 .npmignore
+.idea/
