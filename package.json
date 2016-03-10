@@ -25,7 +25,6 @@
   "dependencies": {
     "async": "^1.5.0",
     "interlude": "~1.1.0",
-    "semver": "^5.1.0",
     "yargs": "^3.6.0"
   },
   "devDependencies": {
