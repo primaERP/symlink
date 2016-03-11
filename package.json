@@ -24,6 +24,7 @@
   "main": "index.js",
   "dependencies": {
     "async": "^1.5.0",
+    "chalk": "^1.1.1",
     "interlude": "~1.1.0",
     "yargs": "^3.6.0"
   },
